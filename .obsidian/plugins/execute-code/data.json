@@ -58,7 +58,7 @@
   "csArgs": "",
   "csFileExtension": "csx",
   "csInject": "",
-  "pythonPath": "python",
+  "pythonPath": "./.venv/Scripts/python.exe",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",

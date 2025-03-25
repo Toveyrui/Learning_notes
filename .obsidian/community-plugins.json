@@ -2,5 +2,7 @@
   "obsidian-git",
   "various-complements",
   "github-sync",
-  "execute-code"
+  "execute-code",
+  "obsidian-pandoc",
+  "highlightr-plugin"
 ]
