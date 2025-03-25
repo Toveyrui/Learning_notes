@@ -29,7 +29,7 @@
               "state": {
                 "file": "反三角函数.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "反三角函数"
