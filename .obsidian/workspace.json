@@ -183,6 +183,9 @@
   "active": "bb4f195cf8353c1c",
   "lastOpenFiles": [
     "未命名",
+    "Postgradate_Exams/english",
+    "Postgradate_Exams/math",
+    "Postgradate_Exams",
     "venv/Scripts/deactivate.bat",
     "venv/Scripts/activate.bat",
     "venv/Scripts/Activate.ps1",
@@ -190,9 +193,6 @@
     "venv/Lib/site-packages/pip-24.3.1.dist-info/REQUESTED",
     "venv/Lib/site-packages/pip-24.3.1.dist-info/INSTALLER",
     "venv/Scripts/pip3.12.exe",
-    "venv/Scripts/pip3.exe",
-    "venv/Scripts/pip.exe",
-    "venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-312.pyc",
     "README.md",
     "RobotOffLineCoding&Simulating/notes/关节控制与仿真/反馈控制器参数整定.md"
   ]
