@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RobotOffLineCoding&Simulating/notes/关节控制与仿真/反馈控制器参数整定.md",
+                "file": "Ziegler-Nichols经验公式法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反馈控制器参数整定"
+              "title": "Ziegler-Nichols经验公式法"
             }
           }
         ]
@@ -166,9 +166,10 @@
   },
   "active": "a87f2df9bc5ff7f2",
   "lastOpenFiles": [
+    "RobotOffLineCoding&Simulating/notes/关节控制与仿真/反馈控制器参数整定.md",
+    "Ziegler-Nichols经验公式法.md",
     "RobotOffLineCoding&Simulating/notes/关节控制与仿真",
     "未命名.canvas",
-    "RobotOffLineCoding&Simulating/notes/关节控制与仿真/反馈控制器参数整定.md",
     "RobotOffLineCoding&Simulating/notes",
     "README.md",
     "未命名.md",
